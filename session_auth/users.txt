@@ -1,0 +1,1 @@
+a:2:{s:5:"login";s:3:"Jon";s:8:"password";s:32:"49b91d19606b7bbac48a4dd32e43a6e8";}

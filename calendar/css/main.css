@@ -1,0 +1,78 @@
+h1 {
+    color: #fff;
+    text-align: center;
+    font-size: 40px;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+}
+
+caption {
+    font-weight: 700;
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+th {
+    color: #fff;
+    text-align: center;
+}
+
+td.day {
+    color: #fff;
+}
+
+.mon {
+    width: 274px;
+    margin: 30px 5px;
+    display: inline-block;
+    padding-left: 15px;
+    vertical-align: top;
+}
+
+.row {
+    margin: 0;
+}
+
+.main {
+    width: 1170px;
+    margin: 50px auto;
+}
+
+.bgi {
+    position: absolute;
+    z-index: -1;
+    width: inherit;
+    height: 794px;
+    background-image: url(../img/luz-devushka-lico-volosy-4476.jpg);
+    -webkit-background-size: cover;
+    background-size: cover;
+    -webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -o-filter: blur(5px);
+    -ms-filter: blur(5px);
+    filter: blur(5px);
+}
+
+td.day:hover {
+    background-color: #f74646;
+    cursor: pointer;
+    color: #fff !important;
+}
+
+input, textarea {
+    width: 100%;
+}
+
+input {
+    margin-bottom: 5px;
+}
+
+#date {
+    color: #e64040;
+    font-weight: 600;
+    font-size: 18px;
+}
